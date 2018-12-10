@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 106c64dc7b71c6643a17de5717942c8d
+  - enabled: 1
+    path: Assets/Scenes/Menus/LevelSelect.unity
+    guid: c7023a04a7c214b49afc882f639f7e8f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1.unity
+    guid: 0f5e1d586469e4356b6b4687dd6b0ed6
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: 3b34694ab6bc5484cb2090f2d1602be2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level3.unity
+    guid: e6737cc361fc76d4d9b46937fa592f3e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level4.unity
+    guid: dfd2b428fc1bcbe44817b0c956db62be
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level5.unity
+    guid: 74ee65898d8404152947b2629993cc80
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level6.unity
+    guid: 8b5eeeb108b504e42adb7f4816c8fdc7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level7.unity
+    guid: 9be57375d4e95bf498b0cade1b66c0a2
+  - enabled: 1
+    path: Assets/Scenes/Arcade/Arcade.unity
+    guid: 0dee34e075c654973aaff2f1346d32cf
+  - enabled: 1
+    path: Assets/Scenes/Menus/Settings.unity
+    guid: 9ccd2f073210940cdb82fe31ba4fc484
+  - enabled: 1
+    path: Assets/Scenes/Menus/Camera.unity
+    guid: 0c2308ff4f03c4e9aa180bccf196dea2
+  - enabled: 1
+    path: Assets/Scenes/Menus/Instructions.unity
+    guid: d4634f642ea7f4877b0248de0584c49b
+  - enabled: 1
+    path: Assets/Scenes/Menus/Loading.unity
+    guid: f2875d5401a784993aa1d2be1dae83c8
