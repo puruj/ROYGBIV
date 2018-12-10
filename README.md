@@ -5,9 +5,11 @@ blue, indigo, and violet. However, if a incorrect ball hits the player it result
 
 <p align="center">
   <img src="Screencaps/Menu.PNG" width="350"/>
+  Menu
 </p>
 <p align="center">
   <img src="Screencaps/Arcade.PNG" width="350"/>
+  Arcade
 </p>
 <p align="center">
   <img src="Screencaps/Level1.PNG" width="350"/>
