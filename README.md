@@ -5,30 +5,37 @@ blue, indigo, and violet. However, if a incorrect ball hits the player it result
 
 <p align="center">
   <img src="Screencaps/Menu.PNG" width="350"/>
- <p align="center"> Menu</p>
+ <p align="center">Menu</p>
 </p>
 <p align="center">
   <img src="Screencaps/Arcade.PNG" width="350"/>
-  Arcade
+  <p align="center">Arcade</p>
 </p>
 <p align="center">
   <img src="Screencaps/Level1.PNG" width="350"/>
+  <p align="center">Level 1 (Red)</p>
 </p>
 <p align="center">
   <img src="Screencaps/Level2.PNG" width="350"/>
+  <p align="center">Level 2 (Orange)</p>>
 </p>
 <p align="center">
   <img src="Screencaps/Level3.PNG" width="350"/>
+  <p align="center">Level 3 (Yellow)</p>
 </p>
 <p align="center">
   <img src="Screencaps/Level4.PNG" width="350"/>
+  <p align="center">Level 4 (Green)</p>
 </p>
 <p align="center">
   <img src="Screencaps/Level5.PNG" width="350"/>
+  <p align="center">Level 5 (Blue)</p>
 </p>
 <p align="center">
   <img src="Screencaps/Level6.PNG" width="350"/>
+  <p align="center">Level 6 (Indigo)</p>
 </p>
 <p align="center">
   <img src="Screencaps/Level7.PNG" width="350"/>
+  <p align="center">Level 7 (Violet)</p>
 </p>
